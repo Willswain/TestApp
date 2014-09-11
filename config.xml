@@ -5,7 +5,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id = "net.hothorse.testApp"
         version = "1.0.0">
-    <name>NCDF TEST</name>
+    <name>TEST APP</name>
 
     <description>
         Tes App for checking distribution
